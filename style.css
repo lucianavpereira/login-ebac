@@ -14,7 +14,8 @@ body {
     background-size: cover;
     background-position: center;
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;/* remove as bordas */
 }
 form {
