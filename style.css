@@ -38,14 +38,14 @@ input {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
-.botao {
+#botao {
     background-color: #4CAF50;
     color: white;
     font-weight: bold;
     cursor: pointer;
     transition: 0.3s;
 }
-.botao:hover {
+#botao:hover {
     background-color: #45a049;
 }
 
