@@ -3,7 +3,11 @@ function logar(){
     var senha = document.getElementById('senha').value
 
     if (login == 'admin' && senha == 'admin') {
-        alert('sucesso')
+        // alert('sucesso')
+        // ir para página de cadastro
+        
+
+
     } else {
         alert('Acesso negado.')
     }
